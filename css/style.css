@@ -19,9 +19,6 @@ body
 
 #container h1
 {
-<<<<<<< HEAD
-    font-size: 26px
-=======
     font-size: 20px
 }
 
@@ -33,5 +30,4 @@ body
     padding: 2em;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 32px;
->>>>>>> cabecera
 }

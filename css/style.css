@@ -1,6 +1,6 @@
 body  
 {
-    color:rgb(125, 25, 219);
+    color:#333;
     text-align: center;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 22px;
@@ -19,9 +19,6 @@ body
 
 #container h1
 {
-<<<<<<< HEAD
-    font-size: 26px
-=======
     font-size: 20px
 }
 
@@ -33,5 +30,4 @@ body
     padding: 2em;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 32px;
->>>>>>> cabecera
 }

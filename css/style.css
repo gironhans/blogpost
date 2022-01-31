@@ -21,3 +21,13 @@ body
 {
     font-size: 20px
 }
+
+#cabecera
+{
+    background-color: darkslategrey;
+    color: floralwhite;
+    text-align: center;
+    padding: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+}
